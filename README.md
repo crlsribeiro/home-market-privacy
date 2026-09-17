@@ -51,9 +51,10 @@ information are visible only to the members of your own household.
 
 ## Data Retention & Deletion
 
-You may request deletion of your account and all associated data at any
-time by contacting us at the email address below. We will delete your
-account data within a reasonable time after verifying your request.
+You can delete your account and all associated data at any time directly
+in the App (Account > Delete Account). You may also request deletion by
+contacting us at the email address below. We will delete your account data
+within a reasonable time after verifying your request.
 
 ## Children's Privacy
 
