@@ -1,8 +1,8 @@
-# Home Market — Privacy Policy
+# Grocery Home — Privacy Policy
 
-**Last updated: September 6, 2026**
+**Last updated: September 19, 2026**
 
-Home Market ("the App") is a household grocery shopping list app that helps
+Grocery Home ("the App") is a household grocery shopping list app that helps
 families and roommates coordinate a shared shopping list, track purchase
 history, and split shopping duties. This Privacy Policy explains what
 information the App collects, how it is used, and your choices.
@@ -11,7 +11,7 @@ information the App collects, how it is used, and your choices.
 
 **Account information.** When you create an account (email/password, Google
 Sign-In, or Sign in with Apple), we collect your email address, name, and
-phone number. A profile photo is optional.
+phone number (optional). A profile photo is also optional.
 
 **Content you create.** Shopping list items, quantities, notes, item photos,
 receipt photos, and purchase records you add to your household's list.
@@ -39,7 +39,7 @@ activity (new items, items not found while shopping, approvals).
 
 ## How We Store Your Information
 
-Home Market stores data using Google Firebase (Authentication, Firestore
+Grocery Home stores data using Google Firebase (Authentication, Firestore
 database, Cloud Storage, and Cloud Messaging), hosted on Google Cloud
 infrastructure. We do not operate our own servers for this data.
 
@@ -58,7 +58,7 @@ within a reasonable time after verifying your request.
 
 ## Children's Privacy
 
-Home Market is not directed at children under 13, and we do not knowingly
+Grocery Home is not directed at children under 13, and we do not knowingly
 collect personal information from children under 13.
 
 ## Changes to This Policy
